@@ -1,0 +1,16 @@
+{
+  "name": "practice-typescript",
+  "version": "1.0.0",
+  "description": "타입스크립트 관련 학습 기록",
+  "main": "index.js",
+  "repository": "https://github.com/yahma25/practice-typescript.git",
+  "author": "mhkim <yahma25@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
