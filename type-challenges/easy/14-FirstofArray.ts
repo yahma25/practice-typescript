@@ -22,6 +22,7 @@
 
 /* _____________ Your Code Here _____________ */
 
+// extends 참고하기: https://github.com/Microsoft/TypeScript/pull/13604
 type First<T extends any[]> = T['length'] extends 0 ? never : T[0];
 
 /* _____________ Test Cases _____________ */
