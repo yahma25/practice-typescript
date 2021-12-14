@@ -1,7 +1,7 @@
 /*
 command
-- npx tsc "이펙티브-타입스크립트/1장-타입스크립트-알아보기/structural-typing.ts"
-- node "이펙티브-타입스크립트/1장-타입스크립트-알아보기/structural-typing.js"
+- npx tsc "이펙티브-타입스크립트/ch2-type-system/structural-typing.ts"
+- node "이펙티브-타입스크립트/ch2-type-system/structural-typing.js"
 */
 
 interface Vector2D {

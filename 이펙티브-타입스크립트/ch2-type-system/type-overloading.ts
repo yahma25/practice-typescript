@@ -1,4 +1,4 @@
-// command: npx tsc "이펙티브-타입스크립트/1장-타입스크립트-알아보기/type-overloading.ts"
+// command: npx tsc "이펙티브-타입스크립트/ch2-type-system/type-overloading.ts"
 
 function add(a: string, b: string): string;
 function add(a: string, b: number): string;
